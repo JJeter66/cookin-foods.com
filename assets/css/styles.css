@@ -352,3 +352,13 @@ a { color: inherit; }
   .instruction-step { grid-template-columns: 1fr; }
   .recipe-hero img { border-radius: 20px; }
 }
+
+.card-no-image {
+  aspect-ratio: 4 / 3;
+  display: grid;
+  place-items: center;
+  background: var(--soft);
+  color: var(--muted);
+  font-weight: 700;
+  border-bottom: 1px solid var(--line);
+}
