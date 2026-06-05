@@ -17,3 +17,20 @@ Updated recipes:
 - burritos.html: 102 → 63 lines
 - taco-tot-casserole.html: 55 → 54 lines
 - tofu-marsala.html: 63 → 62 lines
+
+
+## Final instruction audit pass
+
+Audited the remaining recipes against the named screenshots and expanded missing cooking details where the previous cleanup was too compressed. Updated pages:
+
+- `avocado-tomatillo-salsa.html`: 79 → 57 lines
+- `ballin-bean-chili.html`: 101 → 62 lines
+- `beans-leeks-eggs.html`: 104 → 58 lines
+- `black-eyed-pea-soup.html`: 93 → 53 lines
+- `cabbage-and-potato-soup.html`: 57 → 54 lines
+- `carrot-cake.html`: 61 → 61 lines
+- `delicious-caesar-dressing.html`: 83 → 61 lines
+- `garlicky-cashew-broccoli-crispy-tofu.html`: 105 → 66 lines
+- `impossible-sloppy-joes.html`: 97 → 61 lines
+- `perfect-cabbage-soup.html`: 93 → 56 lines
+- `sheet-pan-tofu-green-beans.html`: 21 → 17 lines
