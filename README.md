@@ -1,12 +1,15 @@
-# Just Cookin Foods Static Site
+# Just Cookin Foods
 
-GitHub Pages-ready static rebuild.
+Static GitHub Pages site for Cookin Foods.
 
-## Publish
-1. Create a GitHub repository.
-2. Upload the contents of this folder to the repository root.
-3. In GitHub: Settings → Pages → Deploy from branch → main → root.
-4. Add a custom domain if desired.
+## Current cleanup pass
 
-## Replace photos
-Images currently use recovered screenshots. Replace files in `assets/images/` and update image filenames in recipe pages if needed.
+- Recipe pages now use recipe-named review images instead of numbered screenshot assets.
+- Old numbered screenshot images were removed from `assets/images/`.
+- Recipe instructions were checked against the named source screenshots and expanded where prior cleanup had compressed details.
+- A missing `Sheet Pan Tofu and Green Beans` recipe page was added from the named source screenshot.
+- Recipes with no named image source currently show `Photo pending` on the homepage and no hero image on the recipe page.
+
+## Publishing
+
+Upload/commit the full folder contents to the GitHub Pages repository root.
